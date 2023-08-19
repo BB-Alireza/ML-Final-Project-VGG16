@@ -2,4 +2,4 @@
 
 ## Vision Group - VGG16 Network
 
-## By: href{https://www.linkedin.com/in/alireza-ansaree/}{Alireza Ansari}
+## By: [Alireza Ansari](https://www.linkedin.com/in/alireza-ansaree/)
